@@ -2,6 +2,15 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>One of the MyriaD sites</p>
+    <ul>
+      <li>
+        <a href="https://furiously-visionary-altar.netlify.app/"
+          >Shubtown Transmission Services</a
+        >
+      </li>
+      <li><a href="https://nameless-star.netlify.app/">Sonic Circle</a></li>
+    </ul>
+    <p>---</p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
