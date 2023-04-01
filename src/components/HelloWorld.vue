@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a href="https://furiously-visionary-altar.netlify.app/"
-          >Shubtown Transmission Services</a
+          >Shepton Transmission Services</a
         >
       </li>
 
@@ -15,6 +15,8 @@
         >
       </li>
       <li><a href="https://nameless-star.netlify.app/">Sonic Circle</a></li>
+      <li>COMING SOON: Jacob's Salvage</li>
+      <li>COMING SOON: CapMart</li>
     </ul>
     <p>---</p>
     <p>

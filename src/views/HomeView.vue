@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="MDMDM" />
+    <HelloWorld msg="WellCome 2 thaGARDIN" />
   </div>
 </template>
 
