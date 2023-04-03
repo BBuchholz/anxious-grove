@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="WellCome 2 thaGARDIN" />
+    <img alt="GARDIN Grove logo" src="../assets/MDMDM_LOGO_FIRST.png" />
   </div>
 </template>
 
@@ -16,3 +16,10 @@ export default defineComponent({
   },
 });
 </script>
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
