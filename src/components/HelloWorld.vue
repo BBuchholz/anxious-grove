@@ -3,7 +3,9 @@
     <h1>{{ msg }}</h1>
     <p>
       ... ov
-      <a href="https://truthfully-cyclopean-barracks.netlify.app/">OBALG</a>
+      <a href="https://truthfully-cyclopean-barracks.netlify.app/"
+        >Our BA ov LG</a
+      >
       MyriaD sites
     </p>
     <ul>

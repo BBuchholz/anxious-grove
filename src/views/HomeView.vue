@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="WellCome 2 thaGARDIN" />
+    <HelloWorld msg="WELLcome 2 thaGARDIN" />
     <img alt="GARDIN Grove logo" src="../assets/MDMDM_LOGO_FIRST.png" />
   </div>
 </template>
