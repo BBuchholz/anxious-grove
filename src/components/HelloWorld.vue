@@ -24,6 +24,7 @@
       <li>COMING SOON: Jacob's Salvage</li>
       <li>COMING SOON: CapMart</li>
       <li><a href="https://a-myriad-of-strivings.netlify.app/">AMOS</a></li>
+      <li><a href="https://codified-heart-song.netlify.app/">SCHS</a></li>
     </ul>
   </div>
 </template>
