@@ -23,10 +23,19 @@
       <li><a href="https://nameless-star.netlify.app/">Sonic Circle</a></li>
       <li>COMING SOON: Jacob's Salvage</li>
       <li>
-        <a href="https://fearlessly-artifactual.netlify.app/">CapMart (NEW!)</a>
+        <a href="https://fearlessly-artifactual.netlify.app/">CapMart</a> (NEW!)
       </li>
       <li><a href="https://a-myriad-of-strivings.netlify.app/">AMOS</a></li>
-      <li><a href="https://codified-heart-song.netlify.app/">SCHS</a></li>
+      <li>
+        <a href="https://antiquarian-cup.netlify.app/">Sylvan Circle Academy</a>
+        (NEW!)
+      </li>
+      <li>
+        <a href="https://codified-heart-song.netlify.app/"
+          >Slacker Circle Home School</a
+        >
+        (formerly Socratic Circle Home School - UNDER RENOVATION)
+      </li>
     </ul>
   </div>
 </template>
