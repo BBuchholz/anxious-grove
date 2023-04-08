@@ -31,10 +31,11 @@
         (NEW!)
       </li>
       <li>
+        COMING SOON: Slacker Circle Home School (formerly
         <a href="https://codified-heart-song.netlify.app/"
-          >Slacker Circle Home School</a
+          >Socratic Circle Home School</a
         >
-        (formerly Socratic Circle Home School - UNDER RENOVATION)
+        - UNDER RENOVATION)
       </li>
     </ul>
   </div>
