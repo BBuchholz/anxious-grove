@@ -21,7 +21,12 @@
         >
       </li>
       <li><a href="https://nameless-star.netlify.app/">Sonic Circle</a></li>
-      <li>COMING SOON: Jacob's Salvage</li>
+      <li>
+        <a href="https://extremely-daemonic-gate.netlify.app/"
+          >Jacob's Salvage</a
+        >
+        (NEW!)
+      </li>
       <li>
         <a href="https://fearlessly-artifactual.netlify.app/">CapMart</a> (NEW!)
       </li>
