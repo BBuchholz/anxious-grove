@@ -43,6 +43,17 @@
         - UNDER RENOVATION)
       </li>
     </ul>
+    <h3>For Layers AC, CBC, CGC, and Further</h3>
+    <ul>
+      <li>
+        <a href="https://github.com/BBuchholz/worthy-mountain"
+          >Worthy Mountain Builders Template</a
+        >
+        - a standard, base template we are currently developing for all
+        Builder's General Usage, see tha README for more details and checkout
+        tha <a href="https://worthy-mountain.netlify.app/">live demo here</a>
+      </li>
+    </ul>
   </div>
 </template>
 
