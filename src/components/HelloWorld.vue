@@ -10,11 +10,16 @@
     </p>
     <ul>
       <li>
+        <a href="https://papaya-parfait-8fcafc.netlify.app/"
+          >AWLWA CarteoGraphy (TEMP HOME)</a
+        >
+        (NEW!)
+      </li>
+      <li>
         <a href="https://furiously-visionary-altar.netlify.app/"
           >Shepton Transmission Services</a
         >
       </li>
-
       <li>
         <a href="https://truthfully-cyclopean-barracks.netlify.app/"
           >Coventry Grove Builders Association</a
@@ -25,15 +30,13 @@
         <a href="https://extremely-daemonic-gate.netlify.app/"
           >Jacob's Salvage</a
         >
-        (NEW!)
       </li>
       <li>
-        <a href="https://fearlessly-artifactual.netlify.app/">CapMart</a> (NEW!)
+        <a href="https://fearlessly-artifactual.netlify.app/">CapMart</a>
       </li>
       <li><a href="https://a-myriad-of-strivings.netlify.app/">AMOS</a></li>
       <li>
         <a href="https://antiquarian-cup.netlify.app/">Sylvan Circle Academy</a>
-        (NEW!)
       </li>
       <li>
         COMING SOON: Slacker Circle Home School (formerly
