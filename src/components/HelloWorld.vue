@@ -49,9 +49,22 @@
         >
         - UNDER RENOVATION)
       </li>
+      <li>
+        COMING SOON: Coventry Grove Credit Union - "Giving Credit Where Credits
+        Due"
+      </li>
     </ul>
     <h3>For Layers AC, CBC, CGC, and Further</h3>
     <ul>
+      <li>
+        <a href="https://github.com/BBuchholz/magik-wel"
+          >MaGiK WeL Builders Template (NEW!)</a
+        >
+        - an update to the Worthy Mountain template, incorporating the new SIS
+        (Steps In Stone) Builder Structure, see tha README for more details and
+        checkout tha
+        <a href="https://magik-wel.netlify.app/">live demo here</a>
+      </li>
       <li>
         <a href="https://github.com/BBuchholz/worthy-mountain"
           >Worthy Mountain Builders Template</a
@@ -82,11 +95,12 @@ h3 {
 }
 ul {
   list-style-type: none;
-  padding: 0;
+  padding: 10px;
+  margin: 10px;
 }
 li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 10px;
 }
 a {
   color: #42b983;
