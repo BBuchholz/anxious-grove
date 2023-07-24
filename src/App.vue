@@ -2,7 +2,8 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/myriad">🜾</router-link>
+    <router-link to="/myriad">🜾</router-link> |
+    <router-link to="/thabook">Tha Book</router-link>
   </nav>
   <router-view />
 </template>
