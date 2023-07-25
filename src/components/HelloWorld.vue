@@ -29,7 +29,16 @@
           >Coventry Grove Builders Association</a
         >
       </li>
-      <li><a href="https://nameless-star.netlify.app/">Sonic Circle</a></li>
+      <li>
+        <a href="https://sonic-circle.netlify.app/"
+          >NEWER VERSION of Sonic Circle (recreated from MaGiK-WeL)</a
+        >
+      </li>
+      <li>
+        <a href="https://nameless-star.netlify.app/"
+          >Previous Version of Sonic Circle</a
+        >
+      </li>
       <li>
         <a href="https://extremely-daemonic-gate.netlify.app/"
           >Jacob's Salvage</a
